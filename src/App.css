@@ -95,7 +95,7 @@ a{
   height: 32px;
   width: 32px;
 }
-@media screen and (min-width:361px) and (max-width:567px) {
+@media screen and (min-width:320px) and (max-width:567px) {
   .header{
     height: 100px;
     width: 100%;
